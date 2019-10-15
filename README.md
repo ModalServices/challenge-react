@@ -25,7 +25,7 @@ https://pokeapi.co/
 
 
 - Login (não faça uma tela de cadastro, apenas login)
-- Listagem dos Pokemons: uma lista com uma imagem, numero e o nome.
+- Listagem dos Pokemons: uma lista com uma imagem, número e o nome.
 - Tela de inserção/edição:
 	- Nome
 	- Resumo/Descrição curta
@@ -56,6 +56,6 @@ https://pokeapi.co/
 
 Seu projeto será avaliado de acordo com a qualidade do seu código e sua organização com os arquivos utilizados, além do conhecimento e bom uso da semântica HTML e CSS.
 
-Dê-nos acesso ao seu repositório, quando fizer isto, avise-me por e-mail vagas@liveonbaas.com, avaliarei o mais rápido possível e te daremos o feedback.
+Dê-nos acesso ao seu repositório, quando fizer isto, avise-nos por e-mail vagas@liveonbaas.com, avaliaremos o mais rápido possível e te daremos o feedback.
 
 _Boa sorte!_
