@@ -8,7 +8,7 @@ O teste prático deverá ser feito por você, no conforto da sua casa.
 
  - Faça um fork deste projeto em sua conta no [Github](https://github.com/join) (crie um repositório privado). 
  - Em seguida, desenvolva o projeto **Pokedex**. 
- - Por fim, adicione como membro do repositório um dos usuários (@brunacriscuolo ou @dorfo-dev).
+ - Por fim, adicione como membro do repositório um dos usuários (@brunacriscuolo, @dorfo-dev e @luoldrigues).
 
 ## Descrição do projeto
 
