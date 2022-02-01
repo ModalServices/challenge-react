@@ -6,9 +6,11 @@ O teste prático deverá ser feito por você, no conforto da sua casa.
 
 ## Como entregar o desafio?
 
- - Faça um fork deste projeto em sua conta no [Github](https://github.com/join) (crie um repositório privado). 
- - Em seguida, desenvolva o projeto **Pokedex**. 
- - Por fim, adicione como membro do repositório um dos usuários (@brunacriscuolo, @dorfo-dev e @luoldrigues).
+- Faça um fork deste projeto em sua conta no [Github](https://github.com/join).
+- Crie um repositório *privado*, com a solução do seu desafio. 
+- Em seguida, desenvolva o projeto. 
+- Adicione como membro do repositório o usuario [@vagas-modalservices](https://github.com/vagas-modalservices).
+- Por fim, envie um email informando que concluiu o desafio p/ vagas@liveonsolutions.com. (coloque no assunto o nome do desafio)
 
 ## Descrição do projeto
 
@@ -56,6 +58,6 @@ https://pokeapi.co/
 
 Seu projeto será avaliado de acordo com a qualidade do seu código e sua organização com os arquivos utilizados, além do conhecimento e bom uso da semântica HTML e CSS.
 
-Dê-nos acesso ao seu repositório, quando fizer isto, avise-nos por e-mail vagas@liveonbaas.com, avaliaremos o mais rápido possível e te daremos o feedback.
+Dê-nos acesso ao seu repositório, quando fizer isto, avise-nos por e-mail vagas@liveonsolutions.com, avaliaremos o mais rápido possível e te daremos o feedback.
 
 _Boa sorte!_
